@@ -1,0 +1,6 @@
+# Python уроки, основы классическая практика
+
+## Модуль 1
+- [Python Урок 1. Переменные](https://docs.google.com/document/d/1CRs2gidCWN_NVD79OE6Rpm7vl7iwIJ2dDWR6D-bZLnE/edit?usp=sharing) 
+- [Python Урок 2. Типы данных](https://docs.google.com/document/d/1odaee1fCbUVqKxdHDP5C1jiWIMVxTQpEqZZA__g_lJg/edit?usp=sharing)
+- [Python Урок 3. Практика на PyGame](https://docs.google.com/document/d/1CpMpog_PSLDFXs89dyoz1cfKaxopW4JW8hUC_Oh1nBE/edit?usp=sharing)
