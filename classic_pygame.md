@@ -1,6 +1,7 @@
 # Python уроки, основы на pygame
 
 ## Модуль 1
+- [Python Урок 2. Типы данных, работы со строками](https://docs.google.com/document/d/1MzwBMZ6cl1BhSitBKh1hSXjfeUCE-wO-qSZmOf7m1fo/edit?usp=sharing)
 - [Python Урок 3. Логические операции. Игра “Волшебный лес”](https://docs.google.com/document/d/1FZfuIXsc4j7UOayeEwkXVR0DX2rruU_Vru8RkEk9p0c/edit?usp=sharing)
 - [Python Урок 4. Условия. Игра: «Побег с таинственного острова»](https://docs.google.com/document/d/1_4dx-K2sM-oXhr0FGYKH5zzQwsxDKVvHMfubnwp-AVE/edit?usp=sharing)
 - [Python Урок 5. Условия. Игра “Tetris Car Racing”](https://docs.google.com/document/d/1rDwAveIyY0JeRVRfnAJAIPEWTR33BDKRGvj1CGR2UfU/edit?usp=sharing)
