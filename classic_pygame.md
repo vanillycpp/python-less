@@ -7,4 +7,5 @@
 - [Python Урок 5. Условия. Игра “Tetris Car Racing”](https://docs.google.com/document/d/1rDwAveIyY0JeRVRfnAJAIPEWTR33BDKRGvj1CGR2UfU/edit?usp=sharing)
 - [Python Урок 6. Циклы. Игра “Подземелье”](https://docs.google.com/document/d/1HW8tvW4Fkk1cBxClijuHEecoQNtJDfBsfNpz_uPBiHM/edit?usp=sharing)
 - [Python Урок 7. Циклы. Pygame практика](https://docs.google.com/document/d/1_hL83WXKqOxjbGR8g1tNmTJr9meJ-AwcEGdyhcTgmYk/edit?usp=sharing)
+- [Python Урок 8. Списки, цикл FOR](https://docs.google.com/document/d/18oFFd5DN0tgGpvBsOF_UvOhnxay7tljV0PFOd2ynfy8/edit?usp=sharing)
 
