@@ -9,3 +9,4 @@
 - [Python Урок 7. Циклы. Pygame практика](https://docs.google.com/document/d/1_hL83WXKqOxjbGR8g1tNmTJr9meJ-AwcEGdyhcTgmYk/edit?usp=sharing)
 - [Python Урок 8. Списки, цикл FOR](https://docs.google.com/document/d/18oFFd5DN0tgGpvBsOF_UvOhnxay7tljV0PFOd2ynfy8/edit?usp=sharing)
 - [Python урок 9. Функции, Словари](https://docs.google.com/document/d/1op_xG1Q2tDZAMiH_p2ih-YnTCY-hPmpyhD8uXNVZshc/edit?usp=sharing)
+- [Python Урок 10. «Создадим 1-ю игру в стиле RPG»](https://docs.google.com/document/d/1B31yS1eY7gNM3vL950k-yiC8hGqaF8cFYn8cYgYdfPs/edit?usp=sharing)
